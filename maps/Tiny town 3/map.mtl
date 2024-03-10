@@ -1,0 +1,83 @@
+newmtl New_Material_-_Copy_(6)
+map_Kd prototype_512x512_orange-resources.assets-142.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material
+Kd 0 0 0
+d 1
+
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl Bricks037_1K_Color-resources.assets-104
+map_Kd Bricks037_1K_Color-resources.assets-104.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(5)
+map_Kd PavingStones046_1K_Color-resources.assets-139.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(4)_-_Copy_-_Copy
+map_Kd Fabric024_1K_Color.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(2)_-_Copy
+map_Kd Bricks056_1K_Color.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(2)_-_Copy_-_Copy
+map_Kd Bricks037_1K_Color-resources.assets-104.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(2)
+map_Kd Bricks057_1K_Color.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(6)_-_Copy
+map_Kd Planks003_1K_Color-sharedassets6.assets-13.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(4)_-_Copy
+map_Kd Fabric025_1K_Color.png
+Kd 1 1 1
+d 1
+
+newmtl Bricks059_1K_Color
+map_Kd Bricks059_1K_Color.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(3)_-_Copy
+map_Kd Bricks059_1K_Color.png
+Kd 1 1 1
+d 1
+
+newmtl Bricks058_1K_Color_1
+map_Kd Bricks058_1K_Color 1.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_(3)_-_Copy_-_Copy
+map_Kd Bricks058_1K_Color 1.png
+Kd 1 1 1
+d 1
+
+newmtl New_Material_-_Copy_-_Copy
+Kd 0.4413937 0.6353005 0.8584906
+d 1
+
+newmtl New_Material_-_Copy_(7)_-_Copy
+map_Kd Rock013_1K_Color-sharedassets14.assets-17.png
+Kd 1 1 1
+d 1
+
